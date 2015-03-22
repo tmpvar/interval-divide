@@ -41,7 +41,7 @@ test('al >= 0, bl < 0 < bu (0)', function(t) {
   t.end();
 });
 
-test('al >= 0, bl ==== 0', function(t) {
+test('al >= 0, bl === 0', function(t) {
   var r = idiv([1, 2], [0,1]);
   t.deepEqual(r, [1, Infinity]);
   t.end();
