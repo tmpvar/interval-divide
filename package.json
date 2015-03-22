@@ -1,0 +1,30 @@
+{
+  "name": "interval-divide",
+  "version": "0.0.0",
+  "description": "divide an interval by another",
+  "main": "interval-divide.js",
+  "dependencies": {
+    "tape": "^3.5.0"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/interval-divide.git"
+  },
+  "keywords": [
+    "interval",
+    "divide",
+    "division"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-divide/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-divide"
+}
