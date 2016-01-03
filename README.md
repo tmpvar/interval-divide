@@ -3,7 +3,7 @@
 divide an interval by another where an interval is a 2 part array
 
 Sources: 
- * [Implicit Solid Modeling Using Interval Methods](http://jenchienjackchang.com/sample-page/implicit-solid-modeling-using-interval-methods/)
+ * [Implicit Solid Modeling Using Interval Methods](https://github.com/tmpvar/interval-min/files/76491/Implicit.Solid.Modeling.Using.Interval.Methods.pdf)
  * [wikipedia/Interval_Arithmetic](http://en.wikipedia.org/wiki/Interval_arithmetic#Simple_arithmetic)
 
 ## install 
